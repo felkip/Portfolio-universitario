@@ -1,2 +1,2 @@
-# Portf-lio-universit-rio-
-Projeto de Frontend realizada na UNIT ( 2?
+# Portfolio-universitario-
+Projeto de Frontend realizado na UNIT (2 período)
